@@ -1,8 +1,0 @@
-C:\Users\Denis\Desktop\FI.WebAtividadeEntrevista-master\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
-C:\Users\Denis\Desktop\FI.WebAtividadeEntrevista-master\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
-C:\Users\Denis\Desktop\FI.WebAtividadeEntrevista-master\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
-C:\Users\Denis\Desktop\FI.WebAtividadeEntrevista-master\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
-D:\Entrevista\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
-D:\Entrevista\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
-D:\Entrevista\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
-D:\Entrevista\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
